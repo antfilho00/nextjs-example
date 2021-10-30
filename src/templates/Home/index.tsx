@@ -1,8 +1,8 @@
 import { CloneMe } from '../../components/CloneMe';
-import * as Styled from './styles'
+import * as Styled from './styles';
 
 export function Home() {
-  return  (
+  return (
     <Styled.Wrapper>
       <CloneMe title="Clone-me" />
     </Styled.Wrapper>
